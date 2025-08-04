@@ -38,6 +38,7 @@ yarn-error.*
 
 app-example
 
+.vscode
 *.pb
 splits
 output*
