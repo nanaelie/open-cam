@@ -37,3 +37,11 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+*.pb
+splits
+output*
+credentials
+credentials/*
+credentials.json
+device-spec.json
