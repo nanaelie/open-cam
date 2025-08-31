@@ -3,7 +3,7 @@
 OpenCam est une application mobile développée avec **React Native (Expo)** qui permet d’explorer et tester les fonctionnalités de la caméra de manière simple et rapide.
 
 ## Usage
-
+s
 ```bash
 # Cloner le dépôt
 git clone https://github.com/nanaelie/open-cam.git
